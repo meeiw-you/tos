@@ -1,0 +1,12 @@
+[legacy/profiles:]
+default='f84271c4-7e41-4a65-be5e-f4d2892b2d1e'
+list=['b1dcc9dd-5262-4d8d-a863-c897e6d979b9', 'f84271c4-7e41-4a65-be5e-f4d2892b2d1e']
+
+[legacy/profiles:/:f84271c4-7e41-4a65-be5e-f4d2892b2d1e]
+background-color='rgb(23,20,33)'
+custom-command='/bin/zsh'
+foreground-color='rgb(208,207,204)'
+login-shell=false
+use-custom-command=true
+use-theme-colors=true
+visible-name='amnesia'
